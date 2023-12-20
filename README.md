@@ -60,23 +60,28 @@ Give the Input Combinations according to the Truth Table amd then simulate the O
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 
-![Alt text](image-4.png)
+![image](https://github.com/23008344/Experiment--02-Implementation-of-combinational-logic-/assets/145742655/98246b4e-2a57-4f0b-9ecf-83ccca59fb0c)
+
+
 
 */
 
 ## RTL realization:
 
-![Alt text](image.png)
+![image](https://github.com/23008344/Experiment--02-Implementation-of-combinational-logic-/assets/145742655/e833cd1c-52ea-4fae-abe3-5e1e28759aad)
+
 
 
 ## Truth Table:
 
-![Alt text](image-1.png)
+![image](https://github.com/23008344/Experiment--02-Implementation-of-combinational-logic-/assets/145742655/a816cbc6-250d-4661-9616-b4495b2083d2)
+
 
 
 ## Timing Diagram:
 
-![Alt text](image-3.png)
+![image](https://github.com/23008344/Experiment--02-Implementation-of-combinational-logic-/assets/145742655/65f9e08b-eafb-4fa7-98c2-aff735c5c466)
+
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
